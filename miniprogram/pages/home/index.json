@@ -1,0 +1,10 @@
+{
+    "navigationBarTitleText": "HOME",
+    "usingComponents": {
+      "cloud-tip-modal": "/components/cloudTipModal/index",
+      "mp-code-modal": "/components/mpCodeModal/index",
+      "t-button": "tdesign-miniprogram/button/button",
+      "t-swiper": "tdesign-miniprogram/swiper/swiper",
+      "t-swiper-nav": "tdesign-miniprogram/swiper-nav/swiper-nav"
+    }
+  }

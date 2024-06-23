@@ -1,0 +1,13 @@
+page {
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    background-color: rgb(236, 210, 214);
+}
+
+.show-border {
+    border: 1px solid black;
+}
